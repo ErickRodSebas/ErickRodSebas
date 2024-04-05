@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="[https://githubuniverse.com/?utm_source=social&utm_medium=Social&utm_campaign=]" width="500">
+  <img src="(https://githubuniverse.com/?utm_source=social&utm_medium=Social&utm_campaign=)" width="500">
   <br>
   Hi, I'm Erick RodSebas <img src="https://github.com/oHTGo/oHTGo/blob/main/images/hi.gif" width="30px" height="30px">
 </h1>
